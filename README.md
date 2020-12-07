@@ -1,6 +1,6 @@
 # 소개
 - Name : 김석현
-- Email : sekhyuni@gmail.com
+- E-mail : sekhyuni@gmail.com
 - Github : github.com/sekhyuni
 
 # 경력
@@ -27,8 +27,15 @@
 - Confluence를 통해 기술 사용법, 스터디 및 세미나 자료 등을 정리할 수 있습니다.
 
 # 프로젝트
-### API Gateway Web Admin
+### 1. API Gateway Web Admin
+`티맥스소프트, 2019.04 ~ 06`
+- WebSocket을 이용한 실시간 모니터링 차트 구현
+    - 각 API별 실시간 정보 제공 (호출 건수, 평균 응답 시간, 데이터 전송량, 오류 발생 건수)
+    - JSON Format을 통한 Server와의 Data 교환
 
-### JEUS T-Up
-
-
+### 2. JEUS T-Up
+`티맥스소프트, 2017.12 ~ 2019.02`
+- 메인, 회원가입, 로그인 페이지 구현
+- SPA 방식의 메인 페이지 내 각 단계별 페이지 구현 (File Upload -> Library Mapping -> Migration -> Migration Report)
+- Vue를 이용한 Table 형태의 Component 구현
+- Promise를 이용한 Ajax Wrapper 모듈 구현
